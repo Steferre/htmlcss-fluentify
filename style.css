@@ -134,6 +134,24 @@ nav > ul > li {
     font-size: 16px;
 }
 
+/*zona main con background bianco*/
+.photo {
+    width: 100%;
+}
+
+.column > h3, p {
+    padding: 20px 0 20px 0;
+    text-align: center;
+}
+
+.column > h3 {
+   color: #7CBB02; 
+}
+
+.column > p {
+    color: #7C7C7C;
+}
+
 
 
 
